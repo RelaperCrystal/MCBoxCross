@@ -1,7 +1,7 @@
 ﻿using System;
 using Gtk;
 
-namespace MainPro
+namespace MCBoxCross
 {
     class MainClass
     {

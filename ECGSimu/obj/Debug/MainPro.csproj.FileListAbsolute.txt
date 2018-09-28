@@ -1,8 +1,0 @@
-/media/endermanlotr/7818BAEA18BAA712/Dev/repos/MonoInSpose/ECGSimu/bin/Debug/MainPro.exe
-/media/endermanlotr/7818BAEA18BAA712/Dev/repos/MonoInSpose/ECGSimu/bin/Debug/MainPro.pdb
-/media/endermanlotr/7818BAEA18BAA712/Dev/repos/MonoInSpose/ECGSimu/bin/Debug/Newtonsoft.Json.dll
-/media/endermanlotr/7818BAEA18BAA712/Dev/repos/MonoInSpose/ECGSimu/bin/Debug/Newtonsoft.Json.xml
-/media/endermanlotr/7818BAEA18BAA712/Dev/repos/MonoInSpose/ECGSimu/obj/Debug/MainPro.csprojResolveAssemblyReference.cache
-/media/endermanlotr/7818BAEA18BAA712/Dev/repos/MonoInSpose/ECGSimu/obj/Debug/MainPro.csproj.CoreCompileInputs.cache
-/media/endermanlotr/7818BAEA18BAA712/Dev/repos/MonoInSpose/ECGSimu/obj/Debug/MainPro.exe
-/media/endermanlotr/7818BAEA18BAA712/Dev/repos/MonoInSpose/ECGSimu/obj/Debug/MainPro.pdb

@@ -4,7 +4,7 @@
     <ProjectGuid>{BC3899A4-9A48-436D-A4E0-203DA109EC94}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
-    <RootNamespace>ECGSimu</RootNamespace>
+    <RootNamespace>MCBoxCross</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugType>full</DebugType>
