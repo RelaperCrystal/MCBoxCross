@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>671</width>
+    <height>476</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MCModFounder</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../../media/endermanlotr/741243CC12439252/Users/EndermanLOTR/IconManagement/m12.ico</normaloff>../../../../media/endermanlotr/741243CC12439252/Users/EndermanLOTR/IconManagement/m12.ico</iconset>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QTextBrowser" name="textBrowserList">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>30</y>
+      <width>651</width>
+      <height>341</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>671</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_Mod">
+    <property name="title">
+     <string>&amp;Mod</string>
+    </property>
+    <addaction name="action_Update_List"/>
+    <addaction name="separator"/>
+    <addaction name="action_Import_List_URL"/>
+   </widget>
+   <widget class="QMenu" name="menu_Tools">
+    <property name="title">
+     <string>&amp;Tools</string>
+    </property>
+    <addaction name="action_Settings"/>
+   </widget>
+   <widget class="QMenu" name="menu_Help">
+    <property name="title">
+     <string>&amp;Help</string>
+    </property>
+    <addaction name="action_About"/>
+   </widget>
+   <addaction name="menu_Mod"/>
+   <addaction name="menu_Tools"/>
+   <addaction name="menu_Help"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="action_Update_List">
+   <property name="text">
+    <string>&amp;Update List...</string>
+   </property>
+  </action>
+  <action name="MenuLine1">
+   <property name="text">
+    <string>-</string>
+   </property>
+  </action>
+  <action name="action_Import_List_URL">
+   <property name="text">
+    <string>&amp;Import List URL</string>
+   </property>
+  </action>
+  <action name="action_Settings">
+   <property name="text">
+    <string>&amp;Settings</string>
+   </property>
+  </action>
+  <action name="action_About">
+   <property name="text">
+    <string>&amp;About</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
